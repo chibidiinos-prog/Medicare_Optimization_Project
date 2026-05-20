@@ -1,0 +1,21 @@
+"hcpcs_code","hcpcs_description","provider_type_clean","current_ratio","predicted_ratio","uplift_potential","total_revenue","volume"
+"A0428","Ambulance service, basic life support, non-emergency transport, (bls)","Ambulance Service Provider",0.208702814425501,0.328336063207785,0.119633248782284,40998930.7587827,208255
+"A0431","Ambulance service, conventional air services, transport, one way (rotary wing)","Ambulance Service Provider",0.116001630138308,0.318266583064972,0.202264952926664,20436185.2416201,4632
+"99223","Initial hospital care with moderate level of medical decision making, if using time, at least 75 minutes","Internal Medicine",0.250434444580819,0.364550258442724,0.114115813861904,28775352.8411859,218350
+"99232","Subsequent hospital care with moderate levelof medical decision making, if using time, at least 35 minutes","Internal Medicine",0.312994299400436,0.372947624058002,0.0599533246575664,54239947.8874687,889766
+"66984","Removal of cataract with insertion of prosthetic lens","Ophthalmology",0.229049010303004,0.306047984927807,0.0769989746248034,40731812.2536085,104810
+"88305","Pathology examination of tissue using a microscope, intermediate complexity","Clinical Laboratory",0.218345420006094,0.405941217548741,0.187595797542646,13231478.2348454,294718
+"67028","Injection of drug into eye","Ophthalmology",0.221594696375833,0.316006919600732,0.0944122232248989,21079360.91443,232555
+"93306","Ultrasound of heart with color-depicted blood flow, rate, direction and valve function","Cardiology",0.221235671672376,0.278253317342464,0.0570176456700876,31002613.2699029,332619
+"99239","Hospital discharge day management, more than 30 minutes","Internal Medicine",0.287144863145254,0.366037771933479,0.0788929087882258,17638318.2536642,201369
+"97110","Therapy procedure using exercise to develop strength, endurance, range of motion, and flexibility, each 15 minutes","Physical Therapist in Private Practice",0.287546351557894,0.339437215152045,0.0518908635941513,25450596.6797367,1492157
+"99291","Critical care, first 30-74 minutes","Internal Medicine",0.21827273777374,0.363983615785106,0.145710878011367,7735033.76582827,46816
+"99285","Emergency department visit with high level of medical decision making","Family Practice",0.0921408454321294,0.376612250076015,0.284471404643886,3157195.71866601,23597
+"17000","Destruction of precancer skin growth, 1 growth","Dermatology",0.267475171172785,0.346659429161402,0.0791842579886169,10870861.1697333,301822
+"99285","Emergency department visit with high level of medical decision making","Nurse Practitioner",0.0716899933297161,0.303649519088111,0.231959525758395,3500652.57191428,30572
+"45385","Removal of polyps or growths of large bowel using an endoscope with mechanical snare","Gastroenterology",0.183486751880818,0.251448031543097,0.0679612796622786,11857106.5194362,60648
+"88305","Pathology examination of tissue using a microscope, intermediate complexity","Pathology",0.163174542293926,0.213992649417738,0.0508181071238121,15260290.747313,414325
+"45380","Biopsy of large bowel using a flexible endoscope","Ambulatory Surgical Center",0.101084041300138,0.161199104974304,0.0601150636741657,12893060.4700202,36443
+"43239","Biopsy of esophagus, stomach, and/or upper small bowel using a flexible endoscope","Ambulatory Surgical Center",0.0695691020788006,0.161661380203861,0.0920922781250608,8280892.84136729,37449
+"43239","Biopsy of esophagus, stomach, and/or upper small bowel using a flexible endoscope","Gastroenterology",0.101137114112561,0.252702812667816,0.151565698555255,4988272.73832164,75169
+"45380","Biopsy of large bowel using a flexible endoscope","Gastroenterology",0.114358897662457,0.250788252914638,0.136429355252181,5376786.67827722,54765

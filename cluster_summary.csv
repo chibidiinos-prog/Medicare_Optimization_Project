@@ -1,0 +1,5 @@
+"cluster","count","avg_volume","avg_revenue","avg_payment_ratio","avg_efficiency","top_procedures","cluster_type","recommendation"
+1,703,55692.9374110953,3288459.49603596,0.485356410736064,210.360889076791,"0004A - Intramuscular administrat | 0014M - Molecular pathology test  | 0042T - Computed tomography (ct) ","Low Performers","Evaluate for potential discontinuation"
+2,42,1361.02380952381,3546141.62066806,0.411776325458208,6003.31037417867,"0627T - Injection of cell or tiss | 0775T - Fusion of sacroiliac join | 27279 - Fusion of pelvic joint us","High Revenue but Inefficient","IMMEDIATE: Review and align pricing"
+3,2446,14299.6864268193,751367.25620283,0.203435436248294,208.052532362752,"00103 - Anesthesia for procedure  | 00104 - Anesthesia for electrosho | 00120 - Anesthesia for other proc","Low Performers","Evaluate for potential discontinuation"
+4,6,3791659.16666667,205952173.577432,0.480664074470454,99.5161910397815,"36415 - Insertion of needle into  | 99213 - Established patient offic | 99214 - Established patient offic","High Revenue but Inefficient","IMMEDIATE: Review and align pricing"
